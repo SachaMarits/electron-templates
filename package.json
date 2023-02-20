@@ -1,0 +1,14 @@
+{
+  "name": "electron-quick-start",
+  "version": "1.0.0",
+  "description": "Electron templates: Quick start",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Sacha Marits",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^23.1.0"
+  }
+}

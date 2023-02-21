@@ -1,5 +1,5 @@
 {
-  "name": "electron-quick-start",
+  "name": "electron-with-dll",
   "version": "1.0.0",
   "description": "Electron templates: Quick start",
   "main": "main.js",
@@ -10,5 +10,9 @@
   "license": "ISC",
   "devDependencies": {
     "electron": "^23.1.0"
+  },
+  "dependencies": {
+    "electron-node-ffi": "^4.0.5",
+    "ffi-napi": "^4.0.3"
   }
 }

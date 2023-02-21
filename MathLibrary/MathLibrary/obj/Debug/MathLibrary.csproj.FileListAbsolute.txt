@@ -1,0 +1,6 @@
+C:\Users\Sacha\Documents\GitHub Repositories\electron-templates\MathLibrary\MathLibrary\bin\Debug\MathLibrary.dll
+C:\Users\Sacha\Documents\GitHub Repositories\electron-templates\MathLibrary\MathLibrary\bin\Debug\MathLibrary.pdb
+C:\Users\Sacha\Documents\GitHub Repositories\electron-templates\MathLibrary\MathLibrary\obj\Debug\MathLibrary.csproj.AssemblyReference.cache
+C:\Users\Sacha\Documents\GitHub Repositories\electron-templates\MathLibrary\MathLibrary\obj\Debug\MathLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Sacha\Documents\GitHub Repositories\electron-templates\MathLibrary\MathLibrary\obj\Debug\MathLibrary.dll
+C:\Users\Sacha\Documents\GitHub Repositories\electron-templates\MathLibrary\MathLibrary\obj\Debug\MathLibrary.pdb

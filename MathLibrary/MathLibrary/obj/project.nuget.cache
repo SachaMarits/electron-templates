@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4E/WJgJKqHSwk8BWtJmjKGdevBD7wgu92jbe1T62nsn4tPlieHO+DYfmQOurJtR3ilC2zZfNZwlmUroTLEFf6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sacha\\Documents\\GitHub Repositories\\electron-templates\\MathLibrary\\MathLibrary\\MathLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sacha\\.nuget\\packages\\dllexport\\1.7.4\\dllexport.1.7.4.nupkg.sha512"
+  ],
+  "logs": []
+}

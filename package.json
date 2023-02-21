@@ -9,7 +9,7 @@
   "author": "Sacha Marits",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^23.1.0"
+    "electron": "20.0.0"
   },
   "dependencies": {
     "electron-node-ffi": "^4.0.5",

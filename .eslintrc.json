@@ -1,0 +1,53 @@
+{
+  "env": {
+    "browser": true,
+    "es2021": true,
+    "jest": true,
+    "node": true
+  },
+  "extends": ["eslint:recommended", "plugin:react/recommended", "plugin:prettier/recommended"],
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    },
+    "ecmaVersion": 12,
+    "requireConfigFile": false,
+    "sourceType": "module"
+  },
+  "parser": "@babel/eslint-parser",
+  "plugins": ["react", "no-constructor-bind"],
+  "rules": {
+    "react/prop-types": "off",
+    "react/no-unescaped-entities": "off",
+    "react/destructuring-assignment": "warn",
+    "object-shorthand": "warn",
+    "space-before-blocks": "warn",
+    "prefer-template": "warn",
+    "dot-notation": "warn",
+    "prefer-const": "warn",
+    "prefer-destructuring": "warn",
+    "no-unused-vars": "warn",
+    "react/no-unused-state": "warn",
+    "react/self-closing-comp": "warn",
+    "react/jsx-fragments": "warn",
+    "react/jsx-no-useless-fragment": "warn",
+    "no-empty": "warn",
+    "no-unneeded-ternary": "warn",
+    "eqeqeq": "warn",
+    "array-callback-return": "warn",
+    "no-self-assign": "warn",
+    "react/sort-comp": "off",
+    "spaced-comment": "warn",
+    "react/no-unused-class-component-methods": "warn",
+    "react/jsx-key": "warn",
+    "no-underscore-dangle": "warn",
+    "no-else-return": "warn",
+    "react/jsx-boolean-value": "warn",
+    "lines-between-class-members": "warn",
+    "react/jsx-curly-brace-presence": "warn",
+    "camelcase": "warn",
+    "no-constructor-bind/no-constructor-bind": "warn",
+    "no-console": "warn",
+    "react/react-in-jsx-scope": "off"
+  }
+}

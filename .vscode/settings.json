@@ -1,0 +1,14 @@
+{
+  "git.autofetch": true,
+  "[javascriptreact][typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "editor.wordWrapColumn": 160,
+    "editor.detectIndentation": false,
+    "editor.indentSize": 2,
+    "editor.insertSpaces": true
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
+}
